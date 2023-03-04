@@ -1,7 +1,7 @@
 
 # CDK Fargate Example
 
-This example will deploy a application load balanced ECS service running a simple node application using the CDK. 
+This example will deploy an ECS Fargate service with an ALB running a simple node application using the CDK. 
 
 To run:
 ```
